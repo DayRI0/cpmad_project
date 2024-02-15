@@ -1,6 +1,6 @@
 # cpmad_project
 
-A new Flutter project.
+Flutter map project.
 
 ## Getting Started
 
